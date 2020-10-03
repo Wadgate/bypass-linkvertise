@@ -2,9 +2,9 @@
 // @name         BypassAdditions
 // @namespace    http://tampermonkey.net/
 // @version      0.4.1
-// @updateURL    https://raw.githubusercontent.com/FireMasterK/BypassAdditions/master/script.js
+// @updateURL    https://github.com/Yessnvi/bypass-linkvertise
 // @description  Bypass links that cannot be bypassed by Universal Bypass
-// @author       FireMasterK
+// @author       Paysc
 // @match        *://*.linkvertise.com/*
 // @match        *://*.linkvertise.net/*
 // @match        *://*.link-to.net/*
